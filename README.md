@@ -20,4 +20,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanmvieira&layout=compact)
 
-💻 Desenvolvedor com mais de 3 anos de experiência, apaixonado por compartilhar conhecimento e ajudar pessoas a entrarem no mundo da programação.
+💻 Desenvolvedor com mais de 3 anos de experiência, apaixonado por aprender novas tecnologias e desenvolvimento mobile.
